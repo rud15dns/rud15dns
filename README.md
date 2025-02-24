@@ -2,7 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=50)
 
-배우고 있는 대학생 개발자입니다!
+<div style="text-align: left;"> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 개발을 배우고 있는 대학생입니다! </div> 
+    </div>
+    
 <table>
   <tr>
     <td align="center">
