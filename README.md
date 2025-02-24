@@ -1,4 +1,4 @@
-## 👋 안녕하세요! 배우고 있는 대학생입니다
+## 👋 kim-chaewon
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=50)
 
