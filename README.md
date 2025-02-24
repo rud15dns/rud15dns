@@ -1,8 +1,7 @@
 ## 👋 kim-chaewon
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=80)
 배우고 있는 대학생 개발자입니다!
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaewon&fontSize=80)
-
 <table>
   <tr>
     <td align="center">
