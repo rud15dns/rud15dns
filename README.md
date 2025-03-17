@@ -2,6 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=50)
 
+## 👋 Welcome to my GitHub!
+
+### 🛠 About Me  
+- 💻 I am currently studying **Spring Boot, Java**, and exploring **NumPy** for data-related tasks.  
+- 🐍 I have experience with **Python** and have worked on projects involving **data processing**.  
+- 🚀 Interested in **backend development, cloud computing, and AI**.  
+
+
 <table>
   <tr>
     <td align="center">
