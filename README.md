@@ -16,9 +16,9 @@
         <img src="http://mazassumnida.wtf/api/generate_badge?boj=rud15dns" alt="Solved.ac Profile Badge"/>
       </a>
     </td>
-<!--     <td align="center">
-      <img src="http://mazandi.herokuapp.com/api?handle=rud15dns&theme=warm" alt="Mazandi Heatmap"/>
-    </td> -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rud15dns&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
+    </td>
   </tr>
 </table>
 
