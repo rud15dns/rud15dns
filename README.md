@@ -6,7 +6,7 @@
 ### 🛠 About Me  
 - 💻 I am currently studying **Spring Boot, Java**, and exploring **NumPy** for data-related tasks.  
 - 🐍 I have experience with **Python** and have worked on projects involving **data processing**.  
-- 🚀 Interested in **backend development, cloud computing, and AI**.  
+- 🚀 Interested in **backend development, cloud computing, BigData and AI**.  
 
 
 <table>
