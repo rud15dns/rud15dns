@@ -4,8 +4,9 @@
 
 
 ### 🛠 About Me  
-- 💻 I am currently studying **Spring Boot, Java**, and exploring **NLP**.
-- 🚀 Interested in **backend development, cloud computing, and AI, especially NLP**.  
+- I am currently studying **Spring Boot, Java**, and exploring **NLP**.
+- Interested in **backend development, cloud computing, and AI, especially NLP**.
+- Working as an undergraduate research assistant exploring Retrieval-Augmented Generation (RAG).
 
 
 <table>
