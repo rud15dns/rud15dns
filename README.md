@@ -1,6 +1,6 @@
-## 👋 Welcome to my GitHub!
+## 👋 Hello, I am Chaewon Kim
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20I'am%20Chaewon&fontSize=50) -->
 
 
 ### 🛠 About Me  
