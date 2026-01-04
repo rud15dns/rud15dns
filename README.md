@@ -8,8 +8,8 @@
 - Interested in **backend development, cloud computing, and AI, especially NLP**.
 - Working as an undergraduate research assistant exploring Retrieval-Augmented Generation (RAG).
 
-### Stack
-<div align=center> 
+### 📚 Stack
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
